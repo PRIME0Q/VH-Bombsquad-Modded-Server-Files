@@ -1,4 +1,4 @@
-'''"""Module to Keeps the log of multiple things."""
+"""Module to Keeps the log of multiple things."""
 
 # ba_meta require api 7
 # (see https://ballistica.net/wiki/meta-tag-system)
@@ -176,4 +176,4 @@ def schedule_webhook():
 if SETTINGS["discordWebHook"]["enable"]:
     thread = threading.Thread(target=schedule_webhook)
     thread.start()
-'''
+
