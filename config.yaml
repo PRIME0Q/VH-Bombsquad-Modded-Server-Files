@@ -47,7 +47,7 @@ max_party_size: 8
 # playlist editor in the regular version of the game.
 # This will give you a numeric code you can enter here to host that
 # playlist.
-playlist_code: 
+playlist_code: 488469
 
 # Alternately, you can embed playlist data here instead of using codes.
 # Make sure to set session_type to the correct type for the data here.
@@ -92,7 +92,7 @@ ffa_series_length: 24
 # currently-signed-in account's id. To fetch info about an account,
 # your back-end server can use the following url:
 # http://bombsquadgame.com/accountquery?id=ACCOUNT_ID_HERE
-stats_url: https://discord.com/invite/4BZvMrA3Sj
+stats_url: https://discord.gg/z4X5FnyHda
 
 # If present, the server subprocess will attempt to gracefully exit after
 # this amount of time. A graceful exit can occur at the end of a series
