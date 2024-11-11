@@ -10,8 +10,8 @@
             "ALL"
         ],
         "ids": [
-            "pb-IF4BUlQBJw==",
-            "pb-JiNJARFeXENAVF5FEkFQXFVBGUJWTlVH"
+            "pb-IF4OUm9dFg==",
+            "pb-IF5QU28FVA=="
         ]
     },
     "co-owner": {
@@ -143,9 +143,7 @@
             "icy",
             "ALL"
         ],
-        "ids": [
-            "pb-JiNJARFeXENAVF5FEkFQXFVBGUJWTlVH"
-        ]
+        "ids": []
     },
     "cs": {
         "tag": "\\d\ud835\udc6a\ud835\udc76\ud835\udc74\ud835\udc77\ud835\udc73\ud835\udc68\ud835\udc70\ud835\udc75\ud835\udc7b_\ud835\udc7a\ud835\udc7b\ud835\udc68\ud835\udc6d\ud835\udc6d\\d",
@@ -403,13 +401,7 @@
             1
         ],
         "commands": [],
-        "ids": [
-            "pb-IF40UEwoPA==",
-            "pb-IF4FUkIOFg==",
-            "pb-IF4UU2ldEg==",
-            "pb-IF4KUBQFJA==",
-            "pb-IF4GUEFaJg=="
-        ]
+        "ids": []
     },
     "bypass-warn": {
         "tag": "",
@@ -430,7 +422,7 @@
         ],
         "commands": [],
         "ids": [
-            "pb-JiNJARFeXENAVF5FEkFQXFVBGUJWTlVH"
+            "pb-IF5QU28FVA=="
         ]
     },
     "tourney": {
