@@ -1,1 +1,1 @@
-blackListWords=['wtf']
+blackListWords=['wtf','fuck','suck','mf','madar']
